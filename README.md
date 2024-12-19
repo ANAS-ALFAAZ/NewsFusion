@@ -41,5 +41,7 @@ To further enrich the user experience, NewsFusion includes additional features s
 * Node.js
 * jQuery
 # Query, Feedback, Bug, Contribute ?? 
-Reach out to me at 02md02anas@gmail.com
+Reach out to me at
+* 02md02anas@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/md-anas-dce/)
 
