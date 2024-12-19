@@ -1,7 +1,7 @@
 # NewsFusion
 NewsFusion as the name suggests is the fusion of 4 different news sources.
 In other words, It is a web app that streamlines news from 4 sources in one place to amplify user experience.
-# Desciption  
+# Description  
 NewsFusion is an innovative web app designed to streamline the news aggregation process by collecting headlines from four different sources and presenting them in one centralized platform. Built using a combination of HTML, CSS, JavaScript, Node.js, and jQuery, the app offers users an efficient way to access the latest news without the hassle of visiting multiple websites. By consolidating the most relevant news from various sources, NewsFusion reduces the time users spend searching for top stories, enhancing overall convenience and improving user engagement. The app focuses on providing a seamless and unified experience, allowing users to stay updated with minimal effort.
 
 To further enrich the user experience, NewsFusion includes additional features such as a Screenshot tool and a Notes section, enabling users to capture and organize key information for easy reference. These features offer a more personalized interaction, giving users the flexibility to engage with the content in a tailored manner. The app also incorporates a forward-thinking approach, with plans to analyze user preferences and eventually introduce an SMS or WhatsApp news thread, allowing for real-time updates. After successful development, NewsFusion has been deployed on GitHub, ensuring public access and fostering open-source collaboration for continuous improvement.
