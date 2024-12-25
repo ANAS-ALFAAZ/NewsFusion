@@ -137,6 +137,7 @@ All content used in this project, including news headlines and articles, is the 
 
 #
 <div align="center">
-Created with ❤️ by **MD. ANAS** - DTU/2K22/CO/281
+Created with ❤️ by <h3>MD. ANAS</h3> - DTU/2K22/CO/281
 </div>
+
 #
