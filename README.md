@@ -37,6 +37,28 @@ To further enrich the user experience, NewsFusion includes additional features s
 * Notes Section
 
 ![image](https://github.com/user-attachments/assets/c48abd62-7a56-4b65-b348-408b02217854)
+
+# 2 Major Features
+### Screenshot Tool
+
+* **Description:** Enables users to capture images or text from news articles and save them for future reference.
+
+* **Why Added:** This feature enhances user engagement by allowing users to capture important information they want to keep or share, improving the app's utility.
+
+* **Tech Stack:** <br /> 
+  * **JavaScript:** For implementing the screenshot functionality, capturing images, and storing them in the browser. <br /> 
+  * **HTML5 Canvas:** To capture a specific section of the screen and convert it to an image.
+
+### Notes Section
+
+* **Description:** A section that allows users to take personal notes and organize them for easy reference.
+
+* **Why Added:** Allows users to personalize their news consumption experience by enabling them to jot down important points from articles or headlines. This can serve as a virtual notepad for users.
+  
+* **Tech Stack:** <br /> 
+  * **JavaScript/jQuery:** For handling note-taking and saving data. <br /> 
+  * **Local Storage:** To store user notes locally on their device, ensuring they are saved even after a page reload.
+
 # Technologies Used
 * HTML
 * CSS
