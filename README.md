@@ -1,3 +1,6 @@
+# Problem Statement
+In today's fast-paced world, staying updated with the latest news is essential. However, users often find themselves navigating multiple websites or applications to catch up on the most relevant news from different domains such as economics, politics, technology, and general news. For example, users may need to visit The Economic Times for financial news, The Hindu for national updates, Hindustan Times for global headlines, and Times of India for general coverage. This process can be time-consuming and inefficient.
+
 # NewsFusion
 NewsFusion as the name suggests is the fusion of 4 different news sources.
 In other words, It is a web app that streamlines news from 4 sources in one place to amplify user experience.
